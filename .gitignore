@@ -1,0 +1,4 @@
+# Ignore
+.DS_Store
+# Except this file
+!.gitignore
